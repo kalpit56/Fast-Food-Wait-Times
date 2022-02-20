@@ -8,6 +8,4 @@ Quick Eats is a mobile application that informs users of wait times for fast foo
 
 # Team Members
 
-## - Kalpit Mody (Scrum Master)
-## - Jack St. Hilaire (Developer)
-## - Leah Harper (Developer)
+## - Kalpit Mody (Scrum Master) ## - Jack St. Hilaire (Developer) ## - Leah Harper (Developer)
