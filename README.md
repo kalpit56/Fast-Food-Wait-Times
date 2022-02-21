@@ -1,4 +1,4 @@
-# Fast-Food-Wait-Times
+# Quick Eats
 
 Team 8's Project for CSC 431
 
